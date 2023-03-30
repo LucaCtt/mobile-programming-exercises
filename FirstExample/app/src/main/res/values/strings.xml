@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirstExample</string>
+    <string name="money_changer">Money Changer</string>
+    <string name="insert_the_dollar_amount_here">Insert the dollar amount here</string>
+    <string name="dollars">Dollars</string>
+    <string name="convert_to_euros">Convert to euros</string>
+</resources>

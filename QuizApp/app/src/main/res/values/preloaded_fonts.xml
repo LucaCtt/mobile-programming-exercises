@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/cabin</item>
+        <item>@font/hind</item>
+        <item>@font/hind_light</item>
+        <item>@font/hind_medium</item>
+        <item>@font/karla</item>
+        <item>@font/montserrat_bold</item>
+    </array>
+</resources>

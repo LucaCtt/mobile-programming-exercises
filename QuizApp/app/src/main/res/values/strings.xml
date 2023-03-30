@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="app_title">QuizApp</string>
+    <string name="welcome_msg">Welcome!</string>
+    <string name="name_msg">What\'s your name?</string>
+    <string name="question_msg">Here goes the question</string>
+    <string name="country_flag">Country flag</string>
+</resources>
